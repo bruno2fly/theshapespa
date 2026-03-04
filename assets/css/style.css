@@ -8267,6 +8267,11 @@ font-family: system-ui !important;}
 }
 
 /* Header */
+.shape-header {
+  background: #ffffff;
+  width: 100%;
+}
+
 .shape-header .top-bar {
   background: #ffffff;
   color: #444444;
