@@ -128,6 +128,22 @@
     <!-- Custom script -->
     <script src="assets/js/script.js"></script>
 
+
+<!-- Shape Pack Popup -->
+<div id="shape-pack-popup" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);z-index:9999;justify-content:center;align-items:center;">
+  <div style="position:relative;max-width:480px;width:90%;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.4);">
+    <button onclick="closePopup()" style="position:absolute;top:10px;right:14px;background:none;border:none;font-size:24px;cursor:pointer;color:#333;z-index:1;">&times;</button>
+    <img src="assets/images/popup/shape-pack-399.png" alt="The Shape Pack R$399" style="width:100%;display:block;">
+    <div style="padding:20px;text-align:center;background:#1a1a1a;">
+      <a href="https://wa.me/15613570426" target="_blank" style="display:inline-block;background:#c8a96e;color:#fff;padding:14px 36px;border-radius:6px;font-weight:bold;font-size:16px;text-decoration:none;letter-spacing:1px;">BOOK YOUR SESSION TODAY</a>
+    </div>
+  </div>
+</div>
+<script>
+  function closePopup(){document.getElementById("shape-pack-popup").style.display="none";sessionStorage.setItem("popupShown","1");}
+  window.addEventListener("load",function(){if(!sessionStorage.getItem("popupShown")){setTimeout(function(){var p=document.getElementById("shape-pack-popup");p.style.display="flex";},1500);}});
+  document.getElementById("shape-pack-popup").addEventListener("click",function(e){if(e.target===this)closePopup();});
+</script>
 </body>
 
 </html>
