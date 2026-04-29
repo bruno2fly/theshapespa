@@ -3,7 +3,7 @@
 <head>
     <!--====== Required meta tags ======-->
     <meta charset="utf-8" />
-    <meta name="description" content="Discover premium facials, body wraps, and sauna treatments at The Shape Spa Miami." />
+    <meta name="description" content="Learn all about our Lymphatic Drainage Massage, Body Sculpting, Facial & Cellulite Treatments and Therapeutic Massages at The Shape Spa Miami." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -11,7 +11,7 @@
 content="z03S7HkK3W-U3xn-gH-_fd2C73ZJOD9jfP_v_ZMBIyA" />
 
     <!--====== Title ======-->
-        <title>The Shape Spa: Facials, Body Wraps <title>The Shape Spa: Lymphatic Drainage Massage in Miami</title> Sauna in Miami</title>
+        <title>The Shape Spa: Lymphatic Drainage Massage in Miami</title>
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -152,22 +152,45 @@ gtag('config', 'G-MKMPL39HE5'); </script>
     <div class="services-grid">
         <div class="service-card">
             <span class="card-number">01</span>
+            <h3>Body Relax</h3>
+            <p>Unwind and de-stress with therapies designed to soothe your body and mind.</p>
+            <br>
+
+            <a href="services.html" class="service-link">Learn More</a>
+        </div>
+
+        <div class="service-card">
+            <span class="card-number">02</span>
             <h3>Facials</h3>
             <p>Customized treatments using clean, effective skincare to give you a radiant glow. </p>
             <a href="services.html" class="service-link">Learn More</a>
         </div>
 
         <div class="service-card">
-            <span class="card-number">02</span>
-            <h3>Body Wraps</h3>
-            <p>Nourish and detoxify your skin with our luxurious body wrap treatments.</p>
+            <span class="card-number">03</span>
+            <h3>Massages</h3>
+            <p>Release tension and restore balance with our range of expert massage techniques. Book Now</p>
+
             <a href="services.html" class="service-link">Learn More</a>
         </div>
 
         <div class="service-card">
-            <span class="card-number">03</span>
+            <span class="card-number">04</span>
             <h3>Sauna Detox</h3>
             <p>Cleanse and purify your body in our state-of-the-art sauna for a full detox.</p>
+            <a href="services.html" class="service-link">Learn More</a>
+        </div>
+
+        <div class="service-card">
+            <span class="card-number">05</span>
+            <h3>Zemits Bionex</h3>
+            <p>Advanced skincare technology for targeted results and visible improvements.</p>
+            <a href="services.html" class="service-link">Learn More</a>
+        </div>
+        <div class="service-card">
+            <span class="card-number">05</span>
+            <h3>All Services</h3>
+            <p>Check our whole menu of services. We provide everything you need.</p>
             <a href="services.html" class="service-link">Learn More</a>
         </div>
     </div>

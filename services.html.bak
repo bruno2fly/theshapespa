@@ -176,14 +176,58 @@
           <nav class="service-nav">
               <div class="container">
                   <ul>
+                      <li><a href="#body-treatments">Body Treatments</a></li>
                       <li><a href="#facial-treatments">Facial Treatments</a></li>
+                      <li><a href="#therapeutic-massages">Massages</a></li>
                       <li><a href="#infrared-sauna">Infrared Sauna</a></li>
+                      <li><a href="#advanced-treatments">Advanced</a></li>
                   </ul>
               </div>
           </nav>
 
           <main class="services-menu-container">
               <div class="container">
+
+                  <section id="body-treatments" class="service-category">
+                      <h2>Body Treatments</h2>
+                      <div class="menu-list">
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>The Shape Drainage Massage</h3><span class="price-line"></span><span class="price">$189 - 60min / $260 - 90min</span>
+                              </div>
+                              <p>Our celebrity body wellness and shaping treatment. Technique developed by Grace Ribeiro to reduce measures, treat fluid retention, activate blood circulation, fight cellulite, and help with lymphedema and swelling.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Post OP Lymphatic Massage</h3><span class="price-line"></span><span class="price">$169 - 60min / $240 - 90min</span>
+                              </div>
+                              <p>With an awarded team of post-surgery experts, we dedicate an entire session to your needs. Reduces discomfort, swelling, and pain relief. Includes ultrasound and special arnica creams. Buy 5, get 1 free. Buy 10, get 2 free.</p>
+                          </div>
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>High Definition ABS</h3><span class="price-line"></span><span class="price">$225 - 60min</span>
+                              </div>
+                              <p>Experience the ultimate Abs sculpt. Treatment only focused on stomach and sides.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>WOOD Therapy Sculpting Drainage</h3><span class="price-line"></span><span class="price">$225 - 60min</span>
+                              </div>
+                              <p>Lifts the body, promotes collagen production, and increases blood flow. Our unique wood techniques are highly recommended by artists.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Metal CryoSculpting Drainage</h3><span class="price-line"></span><span class="price">$225 - 60min</span>
+                              </div>
+                              <p>For lovers of cryotherapy, this drainage massage with cold metal tools is for those looking to tone and firm the skin. A must-try.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Caffeine Activated Body Scrubs</h3><span class="price-line"></span><span class="price">$109 - 30min</span>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
 
                   <section id="facial-treatments" class="service-category">
                       <h2>Facial Treatments</h2>
@@ -233,6 +277,35 @@
                       </div>
                   </section>
 
+                  <section id="therapeutic-massages" class="service-category">
+                      <h2>Therapeutic Massages</h2>
+                      <div class="menu-list">
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Swedish Massage</h3><span class="price-line"></span><span class="price">$140 - 60min</span>
+                              </div>
+                               <p>Relax and unwind with our essential oils.</p>
+                          </div>
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Deep Tissue Massage</h3><span class="price-line"></span><span class="price">$160 - 60min</span>
+                              </div>
+                               <p>Make your day better with a deep tissue massage. Get relief from chronic muscle discomfort and stress.</p>
+                          </div>
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Neuromuscular Massage</h3><span class="price-line"></span><span class="price">$160 - 60min</span>
+                              </div>
+                               <p>Alleviate chronic muscle and nervous system disorders and problems. It is mainly used to fix trigger points, circulation, nerve compression, and postural problems.</p>
+                          </div>
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Prenatal Mom to be Massage</h3><span class="price-line"></span><span class="price">$169 - 60min</span>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+
                   <section id="infrared-sauna" class="service-category">
                       <h2>Infrared Sauna</h2>
                       <div class="menu-list">
@@ -251,6 +324,47 @@
                       </div>
                   </section>
 
+                  <section id="advanced-treatments" class="service-category">
+                      <h2>Advanced Body Treatments</h2>
+                      <div class="menu-list">
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Zemits Bionexis Skin Tightening</h3><span class="price-line"></span><span class="price">$299 - 1 Session / $999 - 5 Sessions</span>
+                              </div>
+                               <p>Say adios to cellulite with our best combined treatment. It consists of a Lipo Cavitation machine session to break fat cells and reduce the appearance of cellulite and a session of infrared sauna MitoRed Light to boost collagen production.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Mesotherapy Skin Tightening & Fat Loss</h3><span class="price-line"></span><span class="price">$399 - 70min / 3 Sessions - $899</span>
+                              </div>
+                               <p>Our most advanced treatment to rejuvenate, tighten skin, and remove excess fat. A session of 3 is required for better results. Combines enzymes with vitamins, RadioFrequency, infrared sauna, and body wraps.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>FIBROSIS TREATMENT</h3><span class="price-line"></span><span class="price">$220 - 60min</span>
+                              </div>
+                               <p>Treatment made to help with fibrosis caused by surgery. We use lymphatic techniques and machines as well to recover the skin.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Cavitation Ultrasound Session</h3><span class="price-line"></span><span class="price">$100 per session</span>
+                              </div>
+                               <p>Target stubborn fat deposits and sculpt your body with precision.</p>
+                          </div>
+                           <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Radio-Frequency</h3><span class="price-line"></span><span class="price">$100 per session</span>
+                              </div>
+                               <p>Unleash the potential of your skin with our innovative Radio-Frequency treatment.</p>
+                          </div>
+                          <div class="menu-item">
+                              <div class="menu-item-header">
+                                  <h3>Infrared Sauna w/ extra Red Lights</h3><span class="price-line"></span><span class="price">$60 - 40min</span>
+                              </div>
+                               <p>Enjoy all the detoxing benefits of our infrared sunlight system.</p>
+                          </div>
+                      </div>
+                  </section>
 
               </div>
           </main>
